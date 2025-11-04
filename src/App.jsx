@@ -15,7 +15,7 @@ function App() {
     },
     {
       author: "Johnny Moonlight",
-      content: "Pink Floyd Wish You Were Here Album ",
+      content: " Wish You Were Here",
       imageUrl:
         "https://t2.genius.com/unsafe/344x344/https%3A%2F%2Fimages.genius.com%2F57e05ca38ee171cf70fd9486aa6dd40a.1000x1000x1.png",
       createdAt: "10/29/2025, 12:10:00 PM",
